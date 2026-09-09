@@ -1,0 +1,9 @@
+.DS_Store
+
+# Tool runtime state / logs
+gh-migrate-*/
+*.log
+
+# Temporary files
+*.tmp
+*.swp
